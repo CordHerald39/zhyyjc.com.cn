@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+reports/
+dist/
+.build-*/
+.test-*/
+private/
+私密维护教程/
+
+.rankup/
